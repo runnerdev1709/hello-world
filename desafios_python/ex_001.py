@@ -11,3 +11,5 @@ print(f'sua parede possui {largura} x {altura} com a area total de {area}, metro
 
 tinta = area / 2     # area dividido por 2 saberemos a qtdde de tinta que precisaremos de fato
 print(f'Uma parede com essa medida {area}, iremos precisar desta qdtte de tinta {tinta} !')
+
+# utilizei este desafio fazendo um push, para meu repositório.
